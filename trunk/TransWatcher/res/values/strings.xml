@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="app_name">TransWatch</string>
+    <string name="generalPreferences">General Preferences</string>
+    <string name="settingsTitle">Preferences</string>
+    <string name="destinationFolder">Destination Folder</string>
+    <string name="destinationFolderHint">Absolute path to local destination folder, where downloaded images are stored.</string>
+    <string name="destinationFolderDefault">/sdcard/DCIM/WIFISD/</string>
+    <string name="status_NO_WIFI">No Wifi Connection</string>
+    <string name="status_SEARCHING_CARD">Searching Card</string>
+    <string name="status_LISTENING">Ready for new Images</string>
+    <string name="status_DOWNLOADING">Downloading ...</string>
+</resources>
