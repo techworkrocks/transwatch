@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory
+        android:key="first_category"
+        android:title="@string/generalPreferences" >
+        <EditTextPreference
+            android:defaultValue="@string/destinationFolderDefault"
+            android:dialogMessage="@string/destinationFolderHint"
+            android:dialogTitle="@string/destinationFolder"
+            android:key="destinationFolder"
+            android:summary="@string/destinationFolderDefault"
+            android:title="@string/destinationFolder" />
+    </PreferenceCategory>
+</PreferenceScreen>
